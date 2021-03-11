@@ -2,10 +2,15 @@
 
 A 3d printed powder dispenser, works with an Auger screw inside a barrel, powered by a geared DC Motor. It is quite simple.
 
-<img src="/img/powder.png" width="700">
+<img src="/img/powder.png" width="300">
 
 # Design
 
+An auger screw does all the magic, pushing the powder that falls at the inlet of the barrel from the hopper. The screw is attached to the shaft of a geared motor with a set screw, the other end of the auger rotates inside a bearing, which is kinda big, but it is what we had in that time and will be replaced soon.
+
+The powder is pushed until the outlet of the barrel, where it falls through a tube. The containter of the powder is made from an acrylic tube which fits on the hopper and is closed on the top by a lid.
+
+The actuator and container were designed with the intention to attach it to V-Slot profiles, with T nuts and flat head bolts, hence it awkward shape.
 
 
 # Parts and materiales
