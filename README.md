@@ -14,7 +14,7 @@ The actuator and container were designed with the intention to attach it to V-Sl
 
 # Parts and materiales
 
-<img src="/img/explode.png" width="400">
+<img src="/img/explode.png" width="500">
 
 ID | 3D printed parts                    | Quantity
  ----- | ---------------------------   | ------------
@@ -42,7 +42,7 @@ ID | Comercial parts                   | Quantity
 
 The parts are not so pleasant to print, as there are some overhangs. Use the following orientations and supports, and try not to use raft. The screw should be printed at minimum layer height.
 
-<img src="/img/print.png" width="700">
+<img src="/img/print.png" width="800">
 
 When the printing is done, drill through the holes to get the right size and remove any extra material (3, 4, 5 and 10 mm drill bits).
 
@@ -54,8 +54,22 @@ To make the container you have to cut a 100 mm long piece of a cylindrical tube,
 
 ## Assembly
 
+<img src="/img/ans1.png" width="700">
 
+1) Bolt the motor to the support with the M3x8 sinkhead bolts
+2) Press a M3 nut in the screw cavity and put a M3x6 set screw through it, without interfering with the shaft hole
+3) Put the auger screw in the motor shaft, leaving a small clearence between it and the motor support. The set screw hole must be located on top of the flat side of the shaft
 
+<img src="/img/ans2.png" width="700">
+
+4) Press M3 nuts in the barrel cavities.
+5) Bolt the motor support to the barrel with M3x35 parker bolts
+6) Press the bearing agains the shaft, and then put the lid on top with M3x10 parker bolts.
+
+<img src="/img/ans3.png" width="500">
+
+7) Press the acrylic cylinder aginst the hopper until it sets tightly, then do the same with the container lid.
+8) Press the hopper against the powder dispenser.
 
 # Tests
 
