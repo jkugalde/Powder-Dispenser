@@ -8,13 +8,13 @@ A 3d printed powder dispenser, works with an Auger screw inside a barrel, powere
 
 An auger screw does all the magic, pushing the powder that falls at the inlet of the barrel from the hopper. The screw is attached to the shaft of a geared motor with a set screw, the other end of the auger rotates inside a bearing, which is kinda big, but it is what we had in that time and will be replaced soon.
 
-The powder is pushed until the outlet of the barrel, where it falls through a tube. The containter of the powder is made from an acrylic tube which fits on the hopper and is closed on the top by a lid.
+The powder is pushed until to outlet of the barrel, where it falls through a tube. The containter of the powder is made from an acrylic tube which fits on the hopper and is closed on the top by a lid.
 
 The actuator and container were designed with the intention to attach it to V-Slot profiles, with T nuts and flat head bolts, hence it awkward shape.
 
-
 # Parts and materiales
 
+<img src="/img/print.png" width="400">
 
 ID | 3D printed parts                    | Quantity
  ----- | ---------------------------   | ------------
@@ -22,23 +22,40 @@ A | Barrel case | 1
 B | Auger screw | 1
 C | Motor support | 1
 D | Hopper | 1
-E | Lid | 1
+E | Container lid | 1
+F | Bearing lid | 1
 
 ID | Comercial parts                   | Quantity
  ----- | ---------------------------   | ------------
 1 | DC Motor 12V 60RPM | 1
 2 | 6000-2RS bearing | 1
-3 | M3x45 parker bolt | 4
+3 | M3x35 parker bolt | 4
 4 | M3x10 parker bolt | 4
 5 | M3x6 set screw | 1
-6 | M3 nut | 9
-7 | Acrylic container 45 mm OD | 1
+6 | M3x8 sinkhead bolt | 2
+7 | M3 nut | 9
+8 | Acrylic container 45 mm OD | 1
 
 # Manufacture
 
 ## 3D printing
 
+The parts are not so pleasant to print, as there are some overhangs. Use the following orientations and supports, and try not to use raft. The screw should be printed at minimum layer height.
+
+<img src="/img/print.png" width="300">
+
+When the printing is done, drill through the holes to get the right size and remove any extra material (3, 4, 5 and 10 mm drill bits).
+
+To get the right tolerance it is a good idea to sand the screw, the tip must fit tightly in the bearing, but the rest of the body should pass smoothly through the barrel.
+
+## Container
+
+To make the container you have to cut a 100 mm long piece of a cylindrical tube, remember to file the edges. It is not mandatory to make the container like that, as it could be whatever you want as long it holds the powders, you could also make a piece to fit a plastic bottle.
+
 ## Assembly
+
+
+
 
 # Tests
 
