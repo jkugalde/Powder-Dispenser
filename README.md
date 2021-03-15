@@ -54,17 +54,17 @@ To make the container you have to cut a 100 mm long piece of a cylindrical tube,
 
 ## Assembly
 
-<img src="/img/ans1.png" width="700">
+<img src="/img/ans1.png" width="800">
 
 1) Bolt the motor to the support with the M3x8 sinkhead bolts
 2) Press a M3 nut in the screw cavity and put a M3x6 set screw through it, without interfering with the shaft hole
 3) Put the auger screw in the motor shaft, leaving a small clearence between it and the motor support. The set screw hole must be located on top of the flat side of the shaft
 
-<img src="/img/ans2.png" width="700">
+<img src="/img/ans2.png" width="800">
 
 4) Press M3 nuts in the barrel cavities.
 5) Bolt the motor support to the barrel with M3x35 parker bolts
-6) Press the bearing agains the shaft, and then put the lid on top with M3x10 parker bolts.
+6) Press the bearing against the shaft, and then put the lid on top with M3x10 parker bolts.
 
 <img src="/img/ans3.png" width="500">
 
