@@ -14,7 +14,7 @@ The actuator and container were designed with the intention to attach it to V-Sl
 
 # Parts and materiales
 
-<img src="/img/print.png" width="400">
+<img src="/img/explode.png" width="400">
 
 ID | 3D printed parts                    | Quantity
  ----- | ---------------------------   | ------------
@@ -42,7 +42,7 @@ ID | Comercial parts                   | Quantity
 
 The parts are not so pleasant to print, as there are some overhangs. Use the following orientations and supports, and try not to use raft. The screw should be printed at minimum layer height.
 
-<img src="/img/print.png" width="300">
+<img src="/img/print.png" width="700">
 
 When the printing is done, drill through the holes to get the right size and remove any extra material (3, 4, 5 and 10 mm drill bits).
 
