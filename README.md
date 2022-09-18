@@ -4,6 +4,8 @@ A 3d printed powder dispenser, works with an Auger screw inside a barrel, powere
 
 <img src="/img/powder.png" width="300">
 
+[Here](https://grabcad.com/library/powder-dispenser-3) are the CAD files.
+
 # Design
 
 An auger screw does all the magic, pushing the powder that falls at the inlet of the barrel from the hopper. The screw is attached to the shaft of a geared motor with a set screw, the other end of the auger rotates inside a bearing, which is kinda big, but it is what we had in that time and will be replaced soon.
@@ -62,14 +64,14 @@ To make the container you have to cut a 100 mm long piece of a cylindrical tube,
 
 <img src="/img/ans2.png" width="800">
 
-4) Press M3 nuts in the barrel cavities.
+4) Press M3 nuts in the barrel cavities
 5) Bolt the motor support to the barrel with M3x35 parker bolts
-6) Press the bearing against the shaft, and then put the lid on top with M3x10 parker bolts.
+6) Press the bearing against the shaft, and then put the lid on top with M3x10 parker bolts
 
 <img src="/img/ans3.png" width="500">
 
-7) Press the acrylic cylinder aginst the hopper until it sets tightly, then do the same with the container lid.
-8) Press the hopper against the powder dispenser.
+7) Press the acrylic cylinder aginst the hopper until it sets tightly, then do the same with the container lid
+8) Press the hopper against the powder dispenser
 
 # Tests
 
