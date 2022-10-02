@@ -5,4 +5,4 @@ A 3d printed powder dispenser, works with an Auger screw inside a barrel, powere
 <img src="/img/isopowder.png" width="300">
 
 [Here](https://grabcad.com/library/powder-dispenser-4) are the CAD files.
-[Here](https://github.com/jkugalde/Powder-Dispenser) is the github repository.
+[Here]((https://jkugalde.github.io/portfolio/powderdispenser/) are some instructions.
